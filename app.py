@@ -60,7 +60,7 @@ def upper_to_lowercase(string):
     print(lower_case_string)
 
 
-upper_to_lowercase("TRANSFROM THIS TEXT TO LOWERCASE")
+upper_to_lowercase("TRANSFORM THIS TEXT TO LOWERCASE")
 
 # 8
 
